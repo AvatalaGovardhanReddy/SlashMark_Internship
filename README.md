@@ -1,2 +1,2 @@
 # SlashMark_Internship
-Slashmark Internship project on ReactJS
+Slashmark Internship projects on ReactJS
